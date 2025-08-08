@@ -1,3 +1,3 @@
 # Homelab Wiki
 
-Built with [Otter Wiki](https://otterwiki.com/).
+Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
