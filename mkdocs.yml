@@ -1,0 +1,4 @@
+site_name: Homelab Wiki
+site_url: https://homelab.aneeshmaganti.com
+theme:
+    name: slate
