@@ -1,4 +1,11 @@
 site_name: Homelab Wiki
 site_url: https://homelab.aneeshmaganti.com
 theme:
-    name: slate
+  name: material
+  palette:
+  # Dark Mode
+  - scheme: slate
+    primary: deep purple
+    accent: red
+  icon:
+    logo: material/laptop

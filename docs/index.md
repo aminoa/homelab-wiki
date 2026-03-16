@@ -1,5 +1,4 @@
 ## Aneesh's Homelab
 
-Welcome to my homelab! My infrastructure is spread across a cluster at home and a digital ocean droplet. If you want to learn more about the hardware that powers the supercomputer*, check out the [[Hardware]] page. Or you can check out the [[Software]] page. My online infrastructure hosts public websites which you can read about on the [[Services]] page. 
+Welcome to my homelab! There's much to explore here. To read why I did this, look at the [Motivation](./motivation.md) page first. If you want to learn more about the hardware that powers this high-performance supercomputer (HPSC)*, check out the [Hardware](./hardware.md) page. If you're more interested in some of the software that underlies the cluster, check out the [Software](./software.md) page. Finally, if you want to check out any of my personal websites, look at the [Services](./services.md) page.
 
-My home servers are primarily designed for media storage whereas my cloud instance is designed for public facing websites.
