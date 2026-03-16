@@ -2,7 +2,7 @@
 
 This will discuss non-service related software. All my laptops run Fedora 43 (I like its reliable package manager and generally up-to-date packages) with k3s on top. Traefik reverse proxies traffic from public subdomains into specific Kubernetes services. 
 
-![Fedora](./assets/Fedora.jpgj)
+![Fedora](./assets/Fedora.jpg)
 
 ## Access 
 
