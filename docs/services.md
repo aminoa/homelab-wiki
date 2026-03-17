@@ -2,6 +2,10 @@
 
 Most of my deployed services are public though I do have some internal services (Longhorn, ROMM). 
 
+- [Ball Shoot](https:/ball-shoot.aneeshmaganti.com)
+
+    Simple Scratch game I wrote in 8th grade, one of my first programs
+
 - [CTFd](https://recruit.aneeshmaganti.com)
 
     Capture the Flag challenges I made while I was at NYU across CSAW 2023/2024; if you can prove that beat Cell without looking at the solution online, I'll buy you a burrito bowl at Chipotle (for the first 5 non-CSAW winners).
