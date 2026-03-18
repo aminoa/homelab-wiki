@@ -27,5 +27,5 @@ jobs:
           context: .
           push: true
           tags: |
-            aminoa/status:latest
-            aminoa/status:${{ github.sha }}
+            aminoa/homelab-wiki:latest
+            aminoa/homelab-wiki:${{ github.sha }}
