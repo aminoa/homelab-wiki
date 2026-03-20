@@ -2,7 +2,7 @@
 
 Most of my deployed services are public though I do have some internal services (Longhorn, ROMM). 
 
-- [Ball Shoot](https:/ball-shoot.aneeshmaganti.com)
+- [Ball Shoot](https://ball-shoot.aneeshmaganti.com)
 
     Simple Scratch game I wrote in 8th grade, one of my first programs
 
